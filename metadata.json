@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Cinemática e Conversor de Unidades",
+  "description": "Uma aplicação completa para cálculos de cinemática, incluindo velocidade média, distância e tempo, e conversão instantânea entre km/h e m/s.",
+  "requestFramePermissions": []
+}
